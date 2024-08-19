@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
-![HR Analytics Dashboard]()
+![HR Analytics Dashboard](HR-analysis.png)
 This project provides a comprehensive HR Analytics Dashboard, leveraging Tableau for visualization and Excel as the data source. The dashboard aims to help HR professionals make data-driven decisions by analyzing key HR metrics such as employee turnover, headcount, diversity, employee satisfaction, and more.
 
 ## Table of Contents
